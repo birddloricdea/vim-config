@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-22
 - Removed unused variable declarations
 - Added type hints to helper functions
+
+## 2026-03-23
+- Cross-checked behaviour against spec
+- Resolved deprecation warnings
+- Investigated performance bottleneck, noted findings
