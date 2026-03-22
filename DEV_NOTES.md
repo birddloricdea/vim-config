@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Resolved deprecation warnings
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-23
+- Cleaned up old debug logs
